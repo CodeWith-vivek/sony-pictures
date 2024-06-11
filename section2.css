@@ -1,0 +1,64 @@
+ .second-section-main-div {
+     display: flex;
+
+     margin-top: 20px;
+     padding-bottom: 20px;
+
+     margin-left: 69.2969px;
+     margin-right: 69.2969px;
+ }
+
+ .img1-garfield {
+     width: 857.19px;
+  
+ }
+
+ .garfiled-img-div-box {
+     display: inline-block;
+
+     position: relative;
+
+     padding-left: 20px;
+     
+ }
+
+ .columbia-img-div-box {
+     display: inline-block;
+
+     padding-right: 16px;
+     padding-left: 16px;
+ }
+
+ .garfiled-movie-info {
+
+     position: absolute;
+     background-color: rgba(127, 255, 212, 0);
+     top: 248px;
+     left: 20px;
+ }
+
+ .garfield-p1 {
+     font-family: Oswald, "Helvetica Neue", Arial, sans-serif;
+     font-size: 27.04px;
+     line-height: 32.448px;
+     text-decoration: none solid rgba(255, 255, 255, 0.8);
+     word-spacing: 0px;
+     margin: 0px;
+     color: white;
+     position: absolute;
+     top: 52px;
+     left: 18px;
+ }
+
+ .garfield-p2 {
+     font-family: acumin-pro, sans-serif;
+     font-size: 18.56px;
+     line-height: 21.6px;
+     text-decoration: none solid rgba(255, 255, 255, 0.8);
+     word-spacing: 0px;
+     margin: 0px;
+     color: white;
+     position: absolute;
+     top: 84px;
+     left: 18px;
+ }

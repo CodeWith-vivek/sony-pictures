@@ -1,0 +1,247 @@
+.third-main-section-div {
+    display: flex;
+    flex-direction: column;
+
+    margin-top: 37.5px;
+    margin-left: 69.31px;
+    margin-right: 69.31px;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-bottom: 100px;
+
+}
+
+.Top-section-sony-pictures {
+        position: relative;
+    display: block;
+}
+
+.blue-line {
+    position: absolute;
+
+    margin: 0px;
+    width: 11.59px;
+    height: 39.19px;
+    background-color: rgb(35, 192, 252);
+    display: inline-block;
+    margin-right: 20px;
+    top: 8px;
+
+}
+
+.third-section-header {
+
+    padding-left: 20px;
+    margin: 0px;
+    font-family: Oswald, "Helvetica Neue", Arial, sans-serif;
+    font-size: 45.696px;
+    font-weight: 400px;
+    text-align: start;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+.left-section-main-third1 {}
+
+.info-about-movies {
+    padding-top: 8px;
+    color: white;
+    font-weight: 900;
+    padding-left: 1.25rem;
+    letter-spacing: 1px;
+    font-size: 1rem;
+    line-height: 1.5625rem;
+
+    font-family: acumin-pro, sans-serif;
+    margin-bottom: 37.5px;
+
+}
+
+.info-about-movies a {
+    color: white;
+    text-decoration: none;
+    margin: 0px 5px 0px 5px;
+    letter-spacing: 1.5px;
+
+}
+
+.b1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.c1 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.boy1 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.art1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+}
+
+.art .movies-list {
+    letter-spacing: 1px;
+}
+
+.art,
+.boy1 {
+    width: 637.38px;
+}
+
+.movies-list-images-contents {
+    display: flex;
+
+}
+
+.movie-2 {
+
+    width: 520.31px;
+
+}
+
+.movie-3 {
+
+    width: 520.31px;
+}
+
+.movie-1 {
+    width: 754.45px;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: column;
+    font-family: "Oswald", "Helvetica Neue", "Arial", sans-serif;
+    color: white;
+    text-transform: uppercase;
+    background-color: rgb(37, 37, 37);
+
+}
+
+.section-1 {
+    display: flex;
+    flex-direction: row;
+    width: 407px;
+    min-height: 54px;
+    margin-bottom: 7px;
+    padding: 4px;
+    border-bottom: 1px solid #050811;
+
+}
+
+.date {
+    display: flex;
+    width: 42px;
+    height: 32px;
+    flex-direction: column;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.details {
+    display: block;
+    font-size: 15.36px;
+    display: flex;
+    flex-direction: column;
+    padding: 0px 6px 4px 10px;
+    line-height: 18.739px;
+
+    word-spacing: 0px;
+
+}
+
+.date-number {
+    font-size: 20px;
+
+    text-align: center;
+    margin: 0px;
+    padding-top: 2px;
+
+}
+
+.month {
+    margin: 0px;
+    font-weight: 600;
+    margin-top: -8px;
+    height: 32px;
+    padding-bottom: 2px;
+}
+
+.content-detail-1 {
+    margin: 0px;
+    font-size: 15.36px;
+    font-family: acumin-pro, sans-serif;
+    line-height: 18.739px;
+    font-weight: 700;
+}
+
+.content-detail-2 {
+    margin: 0px;
+    font-size: 15.36px;
+
+    font-family: acumin-pro, sans-serif;
+    text-transform: none;
+
+}
+
+.third-section {
+    margin-left: 20px;
+}
+
+.line {
+    width: 2px;
+    height: 39.69px;
+    margin-left: 4px;
+
+    background-color: #4a4a4a;
+
+}
+
+.second-section {
+    margin-left: 25px;
+
+}
+
+.movie-name {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-size: 1.69rem;
+    line-height: 1.2;
+    font-family: Oswald, Helvetica Neue, Arial, sans-serif;
+    font-weight: 400;
+    padding-top: 15px;
+
+}
+
+.movies-name-1 {
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    font-size: 16px;
+    font-family: acumin-pro, sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.second-section-bottom {
+    margin-top: 20px;
+}
+
+.a1 {
+    display: flex;
+
+}

@@ -1,0 +1,150 @@
+.Colombia-img {
+    width: 2062px;
+
+}
+
+.demo {
+    position: relative;
+}
+
+.p5 {
+    font-family: Oswald,
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+    font-size: 60.944px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+    height: 65px;
+
+}
+
+.p6 {
+    font-family: Oswald,
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+    font-size: 60.944px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px;
+    height: 65px;
+    margin-bottom: 35px;
+}
+.p8{
+    font-family: Oswald,
+            "Helvetica Neue",
+            Arial,
+            sans-serif;
+        font-size: 60.944px;
+        color: white;
+        font-weight: 400;
+        text-align: center;
+        text-transform: uppercase;
+        margin: 0px;
+        height: 65px;
+        margin-bottom: 35px;
+}
+
+.highlight {
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 110px;
+    left: 134px;
+}
+.highlight2 {
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 110px;
+    left: 1024px;
+}
+
+.learn-more {
+    position: absolute;
+    text-transform: uppercase;
+    left: 133px;
+    padding: 15px 25px 15px 61px;
+    border-style: solid;
+    border-radius: 25px;
+    border-width: 2px;
+    border-color: white;
+    background-color: rgba(0, 0, 0, 0.219);
+    text-decoration: none;
+    color: white;
+    font-family: acumin-pro, sans-serif;
+    font-size: 13px;
+    top: 239px;
+    transition: 0.15s;
+}
+
+.uop {
+    margin-bottom: 37px;
+    margin-left: 10px;
+}
+.uop1{
+    margin-bottom: 37px;
+    margin-left: 10px;
+}
+
+.div-button-learn-more:hover {}
+
+.moniter {
+    position: absolute;
+    left: 12px;
+    top: 6px;
+}
+
+.share {
+    position: absolute;
+    top: 12px;
+}
+
+.learn-more:hover {
+    background-color: rgba(255, 255, 255, 0.185);
+}
+
+.moniter1 {
+    position: absolute;
+    left: 150px;
+    top: 248px;
+}
+
+.share1 {
+    position: absolute;
+    left: 282px;
+    top: 253px;
+}
+
+.p7 {
+    font-family: acumin-pro, sans-serif;
+    font-size: 29.8px;
+    font-weight: 300;
+    line-height: 28.8px;
+    text-decoration: none solid rgb(0, 0, 0);
+    text-align: center;
+    word-spacing: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.p9{
+    font-family: acumin-pro, sans-serif;
+        font-size: 29.8px;
+        font-weight: 300;
+        line-height: 28.8px;
+        text-decoration: none solid rgb(0, 0, 0);
+        text-align: center;
+        word-spacing: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+}

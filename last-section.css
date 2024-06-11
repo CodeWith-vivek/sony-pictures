@@ -1,0 +1,97 @@
+.last-h4 {
+    font-family: Oswald, "Helvetica Neue", Arial, sans-serif;
+    font-size: 17.6px;
+    line-height: 21.12px;
+    text-decoration: none solid rgb(255, 255, 255);
+    text-transform: uppercase;
+    word-spacing: 0px;
+    color: #FFFFFF;
+    margin-top: 0px;
+    font-weight: 400;
+}
+
+.last-a {
+    font-family: acumin-pro, sans-serif;
+    font-size: 14.4px;
+    line-height: 20px;
+    text-decoration: none solid rgb(250, 250, 250);
+    text-align: left;
+    text-transform: uppercase;
+    word-spacing: 0px;
+    color: #a4a6aa;
+    margin-bottom: 10px;
+}
+
+.last-section1 {
+
+    display: flex;
+    flex-direction: column;
+    width: 288.68px;
+    padding-left: 20px;
+}
+.email{
+    margin-top: 50px;
+    color: white;
+}
+.mail-icon{
+    width: 20px;
+    right: 205px;
+        bottom: -4388px;
+    filter: brightness(0.8);
+}
+.uslogo{
+    width: 22px;
+    position: absolute;
+        bottom: -4450px;
+        right: 224px;
+}
+footer{
+   
+    display: flex;
+ 
+    justify-content: space-between;
+    margin: 50px 69.286px 0px  69.286px;
+  
+}
+.footer-section-1{
+    display: inline-block;
+
+}
+.footer-section-2{
+    display: inline-block;
+}
+.footer-link{
+    color: #a4a6aa;
+    font-family: acumin-pro,
+        sans-serif;
+        font-size: 12.304px;
+        font-weight: 300;
+        line-height: 30.76px;
+        padding: 10px 15px 10px 15px;
+        text-decoration: none;
+
+}
+.footer-link1{
+    color: #a4a6aa;
+        font-family: acumin-pro,
+            sans-serif;
+        font-size: 12.304px;
+        font-weight: 300;
+        line-height: 30.76px;
+        padding: 10px 15px 10px 24px;
+        text-decoration: none;
+}
+.span-last{
+    display: inline-block;
+}
+.span-last{
+    color: #a4a6aa;
+        font-family: acumin-pro,
+            sans-serif;
+        font-size: 12.304px;
+        font-weight: 300;
+        line-height: 30.76px;
+        /* padding: 10px 15px 10px 24px; */
+        text-decoration: none;
+        
+}

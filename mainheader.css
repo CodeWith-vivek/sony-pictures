@@ -1,0 +1,513 @@
+.site-header {
+    width: 100%;
+    height: 103px;
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+
+}
+
+.top_head {
+    display: block;
+    height: 34px;
+
+    padding-right: 14px;
+
+    text-align: end;
+    object-fit: contain;
+    padding-top: 2px;
+
+}
+
+.nav:hover{
+    border-color: rgb(67, 67, 70);
+    border-bottom: solid;
+    border-width: 4px;
+    border-color: rgb(67, 67, 70);
+}
+.sony-picture {
+
+    width: 72px;
+    height: 100%;
+    cursor: pointer;
+    transition: 0.05s;
+
+}
+
+.sony-picture:hover {
+    filter: brightness(0.8);
+
+}
+
+.sony-link {
+    cursor: pointer;
+
+}
+
+.bottom_head {
+    padding-top: 13px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 39px;
+    display: flex;
+    align-items: center;
+    
+}
+.middle-section{
+        margin-right: 392px;
+}
+
+.left-section {
+    display: flex; 
+margin-right: 390px;
+}
+.columbia-img{
+    width: 9361.31px;
+}
+
+.menu-button {
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    padding-left: 8px;
+    padding-top: 4px;
+        padding-right: 10px;
+
+}
+
+.menu-img {
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    filter: brightness();
+    background-color: rgba(0, 0, 0, 0);
+
+}
+.middle
+
+.sonyp-logo {
+    padding-top: 14px;
+
+    padding-left: 10px;
+    width: 169px;
+    height: 25px;
+}
+
+.sonylogo {
+    width: 96%;
+    transition: 0.1s;
+    padding-top: 8px;
+        padding-left: 7px;
+}
+
+.sonylogo:hover {
+    filter: brightness(0.8);
+
+}
+
+.nav {
+    font-size: 15px;
+    line-height: 25px;
+    text-decoration: none;
+    font-family: acumin-pro, sans-serif;
+    background-color: transparent;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 13px;
+    padding-bottom: 10px;
+    transition: 0.15s;
+    margin-right: 2px;
+
+}
+
+.nav:hover {
+    cursor: pointer;
+
+}
+
+.right-section {
+    display: flex;
+    align-items: center;
+}
+
+.nav-r-1 {
+    padding-top: 4px;
+}
+
+.icons {
+    padding: 2px;
+    height: 24px;
+    width: 24px;
+    transition: 0.15s;
+}
+
+.icons:hover {
+    filter: brightness(0.8);
+
+}
+
+.nav-r-2 {
+    padding-top: 4px;
+}
+
+.icons2 {
+    height: 20px;
+    width: 20px;
+    padding: 5px;
+    transition: 0.15s;
+}
+
+.icons2:hover {
+    filter: brightness(0.8);
+}
+
+.nav-r-3 {
+    padding-right: 4px;
+    padding-top: 9px;
+}
+
+.icons3 {
+    height: 28px;
+    width: 28px;
+    padding-bottom: 4px;
+    transition: 0.15s;
+}
+
+.icons3:hover {
+    filter: brightness(0.8);
+}
+
+.nav-r-4 {
+    padding-right: 8px;
+    padding-top: 9px;
+}
+
+.icons4 {
+    height: 26px;
+    width: 27px;
+    padding-bottom: 4px;
+    transform: 0.15s;
+
+}
+
+.icons4:hover {
+    filter: brightness(0.8);
+}
+
+.nav-r-5 {
+    padding-top: 8px;
+    padding-right: 5px;
+}
+
+.icons5 {
+    height: 18px;
+    width: 18px;
+    padding-bottom: 4px;
+    transform: 0.15s;
+
+}
+
+.icons5:hover {
+    filter: brightness(0.8);
+}
+
+.mail-content {
+    display: inline-block;
+
+    margin-left: 11px;
+    padding-bottom: 9px;
+
+    text-align: start;
+}
+
+.sign-up {
+    display: inline-block;
+    background-color: rgb(42, 45, 52);
+    font-family: acumin-pro, sans-serif;
+    text-decoration: none solid rgb(250, 250, 250);
+    color: white;
+    font-size: 12px;
+    line-height: 19.6864px;
+    font-weight: 300;
+    text-transform: uppercase;
+    word-spacing: 0px;
+    padding-left: 50.400px;
+    padding-right: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 25px;
+    position: relative;
+    text-align: center;
+    z-index: 100;
+    margin-bottom: -2px;
+
+}
+.sign-up2 {
+    width: 150px;
+    height: 50px;
+    font-family: acumin-pro, sans-serif ;font-size: 14.4px ;font-weight: 500 ;line-height: 14.4px ;text-decoration: none solid rgb(255, 255, 255) ;text-align: center; word-spacing: 0px;
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+   
+    color: rgb(255, 255, 255);
+   
+    text-transform: uppercase;
+
+    position: relative;
+    text-align: center;
+    z-index: 100;
+    margin-bottom: -2px;
+    vertical-align: middle;
+
+}
+.s1{
+    padding-top: 10px;
+    padding-left: 19px;
+}
+.send-mail {
+    display: inline-block;
+    height: 22px;
+    width: 22px;
+    position: absolute;
+    left: 15px;
+    top: 7px;
+    }
+
+.search-section {
+    margin-left: 10px;
+    display: flex;
+    height: 25px;
+    position: relative;
+
+}
+
+.bar {
+    display: inline-block;
+    height: 25px;
+    width: 1.594px;
+    background-color: rgb(120, 120, 120);
+    margin-right: 10px;
+
+}
+
+.search-icon-box {
+    padding-top: 5px;
+    display: inline-block;
+    height: 25px;
+    vertical-align: bottom;
+
+}
+
+.search-icon {
+
+    height: 20px;
+    width: 20px;
+    margin: 0px;
+}
+.search-icon:hover{
+    cursor: pointer;
+}
+span {
+    display: block;
+}
+
+.movie-preview {
+    background-color: rgb(0, 0, 0);
+    position: relative;
+
+}
+
+.main-img {
+
+    filter: brightness(0.8);
+    width: 100%;
+    height: 100%;
+
+}
+
+.movie-preview2 {
+    display: flex;
+
+    position: absolute;
+    padding-left: 20px;
+    width: 100%;
+    top: 432px;
+
+}
+
+.movie-title {
+    padding-left: 25px;
+
+}
+
+.blank-space {
+    padding-bottom: 26px;
+    padding-top: 25px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-family: Oswald,
+        "Helvetica Neue",
+        Arial,
+        sans-serif;
+    font-size: 45.696px;
+    line-height: 49.80px;
+    font-weight: 400;
+    margin-bottom: 11px;
+    margin-top: -65px;
+    text-align: left;
+    text-size-adjust: 100%;
+    width: 658px;
+    text-transform: uppercase;
+}
+h1:hover,.p1:hover{
+    color: rgba(255, 255, 255, 0.733);
+    cursor: pointer;
+}
+.p1 {
+    display: flex;
+    font-family: font-family acumin-pro, sans-serif;
+    font-size: 22.4px;
+    font-weight: 500;
+    line-height: 25px;
+    opacity: 1;
+    text-align: left;
+    color: white;
+    letter-spacing: -0.2px;
+    margin-bottom: 19px;
+
+}
+
+.buttons {
+    display: flex;
+
+}
+
+.watch {
+
+    width: 175px;
+    height: 50px;
+    border-radius: 25px;
+    position: relative;
+    border-color: rgb(35, 192, 252);
+    border-style: solid;
+    text-transform: uppercase;
+    background-color: rgb(35, 192, 252);
+    color: white;
+    border-width: 2px;
+    font-size: 14.33px;
+    font-weight: 400;
+    padding-bottom: 5px;
+    padding-left: 2px;
+    margin-right: 20px;
+    transition: 0.15s;
+}
+
+.play-button {
+    width: 22px;
+    height: 22px;
+    position: absolute;
+    top: 11px;
+    left: 14px;
+    transition: 0.15s;
+}
+.watch:hover,.tickets:hover{
+    cursor: pointer;
+}
+html {
+    overflow-x: hidden;
+}
+
+.word {
+    display: block;
+    width: 106px;
+    margin-right: 3px;
+    
+}
+
+.watch2 {
+    display: block;
+    position: absolute;
+    top: 2px;
+    font-size: 13px;
+    line-height: 19.6864px;
+    font-weight: 400;
+    left: 49px;
+    letter-spacing: -0.1px;
+
+}
+
+.watch3{
+        display: block;
+            position: absolute;
+            top: 2px;
+            font-size: 13px;
+            line-height: 19.6864px;
+            font-weight: 300;
+            left: 49px;
+            letter-spacing: -0.1px;
+}
+.cart-button{
+    width: 21px;
+        height: 21px;
+        position: absolute;
+        top: 11px;
+        left: 14px;
+        transition: 0.15s;
+}
+.tickets{
+        width: 175px;
+            height: 50px;
+            border-radius: 25px;
+            position: relative;
+            border-color: rgb(35, 192, 252);
+            border-style: solid;
+            text-transform: uppercase;
+            background-color: rgb(35, 192, 252);
+            color: white;
+            border-width: 2px;
+            font-size: 14.33px;
+            font-weight: 400;
+            padding-bottom: 5px;
+            padding-left: 2px;
+            margin-right: 20px;
+            transition: 0.15s;
+}
+.main-div-second-section {
+   display: block;
+   width: 100%;
+  
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: auto;
+
+    background-color: black;
+
+}
+
+.left-section-badboys {
+    display: inline-block;
+    padding-left: 20px;
+ 
+}
+
+.right-section-coloumbia {
+    display:inline-block;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+}
+
+.badboys-img{
+    display: flex;
+    
+    max-width: 936.31px;
+}
+
+.Columbia-img{
+    width: 936.31px;
+    display: inline-block;
+}
